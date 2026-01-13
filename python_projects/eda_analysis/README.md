@@ -6,12 +6,12 @@
 
 ---
 
-## Технологический стек
+## Технический стек
 
-  - pandas
-  - nump
-  - matplotlib
-  - seaborn
+- Python
+- pandas, numpy
+- matplotlib, seaborn
+- Jupyter Notebook
 
 ---
 
