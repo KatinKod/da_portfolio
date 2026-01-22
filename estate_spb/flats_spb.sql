@@ -1,5 +1,6 @@
 -- Анализ рынка недвижимости Санкт-Петербурга
 
+
 -- Фильтр аномальных значений и категоризация запросов
 WITH limits AS (
     SELECT  
@@ -269,4 +270,5 @@ LEFT JOIN real_estate.city c ON a.city_id = c.city_id
 WHERE c.city != 'Санкт-Петербург'
 GROUP BY c.city
 ORDER BY COUNT(a.id) DESC
+
 LIMIT 15;
