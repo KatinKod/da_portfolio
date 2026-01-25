@@ -13,7 +13,10 @@
 - **SQL** (PostgreSQL) 
 - **DBeaver** 
 - **Yandex DataLens** 
-- **CTE (Common Table Expressions)** 
+- **CTE (Common Table Expressions)**
+
+## 🔗 Ссылка на дашборд
+Дашборд доступен по ссылке: [https://datalens.yandex/k59rzxoo0hpq7](https://datalens.yandex/k59rzxoo0hpq7)
 
 ## 📊 Ключевые выводы
 
